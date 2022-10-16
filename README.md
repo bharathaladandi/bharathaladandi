@@ -1,8 +1,8 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 <h1 align="center">Hi 👋, I'm Bharat Haldandi</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
-
-<a href="#"><img width="100%" height="auto" src="![image](https://user-images.githubusercontent.com/101581277/196045339-e7a5ce25-08f5-49bf-9c53-d9e8c4b0f6b7.png)" height="175px"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathaladandi&label=Profile%20views&color=0e75b6&style=flat" alt="bharathaladandi" /> </p>
 
