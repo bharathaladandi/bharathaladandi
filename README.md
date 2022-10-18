@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
 
 <h1 align="center">Hi 👋, I'm Bharat Haldandi</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
