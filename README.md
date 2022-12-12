@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bharat Haldandi</h1>
 
+<h3 align="center">Aspiring MERN Developer</h3>
 
-<h3 align="center">I am a full stack web developer. An experienced website developer specialized in responsive websites and feature-rich web apps. I has worked on numerous projects involving front and back- end development.</h3>
+<h4 align="center">I am a full stack web developer. An experienced website developer specialized in responsive websites and feature-rich web apps. I has worked on numerous projects involving front and back- end development.</h4>
 <br/>
 
 
