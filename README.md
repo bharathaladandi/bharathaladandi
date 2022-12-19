@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bharat Haldandi</h1>
+<h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 
-<h3 align="center">Aspiring MERN Developer</h3>
-
-<h4 align="center">I am a full stack web developer. An experienced website developer specialized in responsive websites and feature-rich web apps. I has worked on numerous projects involving front and back- end development.</h4>
+![image](https://www.crio.do/blog/content/images/2021/04/Full-stack-web-developer.png)
+<p align="center">I am a full stack web developer. An experienced website developer specialized in responsive websites and feature-rich web apps. I has worked on numerous projects involving front and back- end development. Looking for a career that demands the best of my professional ability in terms of technical and analytical skills, and helps me in broadening and enhancing my current skill and knowledge. I am capable of developing websites using React.js & other well-known web development technologies</p>
 <br/>
 
 
-<img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
-
+<!-- <img align="center" src="https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg" />
+ -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharathaladandi&label=Profile%20views&color=0e75b6&style=flat" alt="bharathaladandi" /> </p>
 
@@ -29,7 +29,7 @@
 
 - 🔭 Know more about me **[Linkedin](https://www.linkedin.com/in/bharat-b-99a680242/)**
 
-- ⚡ Fun fact **I love bike riding and watching movies**
+- ⚡  Interests **Swimming bike riding and watching movies**
 
 
 ## 🚀 Languages and Tools:
