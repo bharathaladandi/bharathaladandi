@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bharat Haldandi</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 
-<img align="centre" alt="Coding" width="100%"  src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966"/>
+<img src="https://camo.githubusercontent.com/8ba1e66bcfa048214cf17f235c341742347c9c248831d044aa888acbeec89502/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313239323637372f73637265656e73686f74732f363133393136372f6d656469612f66636637666430633631396262383737303635333330373932343039313566332e676966" align="center" style="width: 100% , height:200px " />
 <p align="center">A passionate and motivated Full Stack Web Developer, Contributes to team
 success through hard work and excellent organizational skills. A clear
 understanding of Websites and training in the Backend and Frontend. Looking
-for a challenging role in industry to utilize my skills and learning new things</p>
+for a challenging role in the industry to utilize my skills and learn new things</p>
 <br/>
 
 
